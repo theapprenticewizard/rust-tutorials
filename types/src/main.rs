@@ -25,7 +25,6 @@ fn main() {
 
     // compound types (including tuples) can't be printed directly
     // println!("{}", a);
-
     println!("{}", a[0]);
 
 }
